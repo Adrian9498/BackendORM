@@ -1,0 +1,4 @@
+ORM => Object Relational Mapping
+
+JSORM => JavaScript Object Relational Mapping
+
